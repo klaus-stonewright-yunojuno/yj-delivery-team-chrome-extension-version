@@ -14,9 +14,9 @@ There is no application code in this repository.
 
 ```json
 {
-  "version": "2.58",
+  "version": "2.61",
   "released": "2026-08-19",
-  "minSupported": "2.40",
+  "minSupported": "2.50",
   "notice": ""
 }
 ```
